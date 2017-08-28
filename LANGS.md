@@ -1,6 +1,10 @@
-\* \[中文\]\(zh\)
+```markdown
+* [English](en)
+```
 
-\* \[English\]\(en\)
+```
+* [中文](zh)
+```
 
 
 
